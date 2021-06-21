@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.info{
+    width: 100%;
+	background-image: url("chisme2.jpg");
+    padding: 35px;
+}
+
+.title{
+    color: white;
+    font-family: 'Broadway', sans-serif;
+	text-align: center;
+}
+
+.desc{
+    width: 100%;
+    background-image: url("chisme3.jpg");
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 120%;
+    line-height: 1.5em;;
+}
+
+.datos{
+	text-align: center;
+	background-image: url("logo.jpg");
+}
+
+.formulario{
+    width: 100%;
+	background-image: url("Fondo.jpg");
+    font-family: "Times New Roman", sans-serif;
+	font-size: 150%;
+    margin: auto;
+    padding: 50px;
+}
+
+
+.inputc{
+    display: block;
+}
